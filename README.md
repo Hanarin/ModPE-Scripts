@@ -1,2 +1,2 @@
 # ModPE-Scripts
-The repository for ModPE script projects.
+The repository for ModPE script projects

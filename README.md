@@ -1,2 +1,2 @@
 # ModPE-Scripts
-This repository uploads written and writing scripts.
+The repository for ModPE script projects.
